@@ -1,0 +1,2 @@
+[0317/232123:ERROR:file_io.cc(30)] read: expected 1064, observed 0
+[0317/232123:ERROR:crash_report_database_win.cc(443)] failed to read records
