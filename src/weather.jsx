@@ -91,7 +91,5 @@ function toggleUnits() {
   }
 }
 
-$(document).ready(function() {
-  getLocation();
-  $("#units").click(toggleUnits);
-});
+document.getElementById("units").onclick = toggleUnits;
+getLocation();  
